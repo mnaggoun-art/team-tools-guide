@@ -1,11 +1,3 @@
 ﻿# Team Tools Guide
 A collaborative guide for team development tools.
-git checkout -b docs/readme
-echo "## Project Goal" >> README.md
-echo "This repository compares essential software engineering tools." >> README.md
-echo "## Team Members" >> README.md
-echo "- Student A (Owner)" >> README.md
-echo "- Student B (Collaborator)" >> README.md
-git add README.md
-git commit -m "Complete README documentation"
-git push -u origin docs/readme
+
